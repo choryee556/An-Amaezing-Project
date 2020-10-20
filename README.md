@@ -1,4 +1,4 @@
-print("Title of program: ni de tounao you wenti ma?")
+print("Title of program: ni tounao you wenti ma?")
 print()
 
 counter = 0
