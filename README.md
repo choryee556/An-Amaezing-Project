@@ -86,7 +86,7 @@ tracker = 0
 
 while tracker !=1:
   
-  print("Q"+str(counter)+") "+ "xiaoming hen xihuan chi xigua, ta qu tajia fujing de basha mai xigua. yili wanzheng de xigua dagai mai duo shao qian?")
+  print("Q"+str(counter)+") "+ "xiaoming hen xihuan chi xigua, ta qu ta jia fujing de basha mai xigua. yili wanzheng de xigua dagai mai duo shao qian?")
   print("   a) $5.10")
   print("   b) $4.80")
   print("   c) $4.90")
